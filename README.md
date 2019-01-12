@@ -1,7 +1,11 @@
-# guidance-and-control
+# Aerospace design and manufactoring utilities
+==============================================
 
-I. Overview
-C++ code for aerospace guidance and control
+This repository contains utility functions written in C++ that aid in solving common problems in aerospace design and manufactoring.
 
-II. Current functions
-windchillIndex.cpp	Calculates windchill index given wind speed and temp
+
+Current functions
+------------------
+
+- calculateResistorResistance: Calculates the resistance (with tolerance) of an axial resistor based on its color bands
+- windchillIndex: Calculates windchill index given wind speed and temp
